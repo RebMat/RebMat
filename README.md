@@ -17,6 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="AdobeXD" alt="Adobe XD" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="Visual Studio Code" width="40" height="40"/>
 </div>
  
  
@@ -31,4 +32,3 @@
   <img src="https://img.shields.io/badge/LinkedIn-CBC3E3?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
-
