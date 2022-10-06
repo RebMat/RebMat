@@ -11,8 +11,18 @@
 
   
 ### My skills
-  
-<div id="badges">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
+</div>
+ 
+ 
+
+
+<div id="badges" align="center">
+  <p>You can reach me here:</p>
   <a href="https://www.instagram.com/rebeccamathisen/">
   <img src="https://img.shields.io/badge/Instagram-CBC3E3?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
@@ -20,3 +30,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-CBC3E3?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
+
