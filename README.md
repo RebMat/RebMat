@@ -25,6 +25,7 @@
 
 <div id="badges" align="center">
   <p>You can reach me here:</p>
+  <p>rebeccamathisen@live.no</p>
   <a href="https://www.instagram.com/rebeccamathisen/">
   <img src="https://img.shields.io/badge/Instagram-CBC3E3?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
