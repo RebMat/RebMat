@@ -6,7 +6,7 @@
 ### About me
 <p>:white_small_square: Im a front-end dev student at Noroff</p>
 <p>:white_small_square: Im 30 years old and live in Bergen, Norway</p>
-<p>:white_small_square: Besides studying, I work as a healthcare worker, and also have a degree as a skincare therapist</p>
+<p>:white_small_square: Besides studying, I work in health care, and also have a degree as a skincare therapist</p>
 <p>:white_small_square: I love being creative in many ways. It can be anything from cooking, interior, hosting events or dinnerparties to develop a website. 
 
   
